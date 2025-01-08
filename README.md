@@ -1,4 +1,4 @@
-# StretchyImage
+# Stretchy Image
 This project demonstrates the implementation of a dynamic, stretchable image at the top of the screen, paired with a scrollable content area below it in a Swift-based application.
 
 ![ScreenRecording2024-11-21](https://github.com/user-attachments/assets/ba8c4131-36b2-4236-8a02-30f4c3de45e3)
